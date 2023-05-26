@@ -28,10 +28,16 @@ Since this is a frontend project, you don't need to install anything. Just clone
 ## Collaborations
 Youtube, Css-tricks, Flexfrog, and ect
 
-To clone the repository, use the following command in your terminal:
+## Links
+
+To clone
 
 ```bash
 git clone git@github.com:iphaminh/module-2_Challenge.git
+
+URL of the GitHub repository
+
+https://github.com/iphaminh/module-2_Challenge.git
 
 Contact
 If you want to contact me you can reach me at minhmeoquay@gmail.com
