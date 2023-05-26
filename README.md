@@ -13,11 +13,13 @@ It's designed with responsiveness in mind, ensuring it displays well on a variet
 
 ## Demo
 
-[Deployed application](https://your-live-url.com)
+[Deployed application](https://iphaminh.github.io/module-2_Challenge/)
 
 ## Screenshots
 
-(Include screenshots of your project here)
+<img src="assets/images/Screen%20Shot%201.png" width="200"/>
+<img src="assets/images/Screen%20Shot%202.png" width="100"/>
+<img src="assets/images/Screen%20Shot%203.png" width="200"/>
 
 ## Installation and Usage
 
@@ -26,7 +28,7 @@ Since this is a frontend project, you don't need to install anything. Just clone
 To clone the repository, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone git@github.com:iphaminh/module-2_Challenge.git
 
 Contact
 If you want to contact me you can reach me at minhmeoquay@gmail.com
