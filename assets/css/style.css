@@ -106,23 +106,27 @@ article img {
 
 .text-overlay {
     position: absolute;
-    bottom: 15px; /* adjust as per your need */
-    right: 29px;  /* adjust as per your need */
-    background-color: rgba(0, 0, 0, 0.5); /*background with 50% opacity*/
-    color: #fff; /*This will make the text color white*/
-    padding: 3px; /*This will add a little space around your text*/
+    bottom: 15px; 
+    left: 1250px;  /* adjust this as per your need */
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fff; 
+    padding: 2px; 
+    height: 30px; /* Set this to the height you want */
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 4px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
+
 
 .text-overlay {
     position: absolute;
     bottom: 15px; 
-    left: 10px;  /* adjust this as per your need */
+    left: 1250px;  /* adjust this as per your need */
     background-color: rgba(0, 0, 0, 0.5); 
     color: #fff; 
-    padding: 3px; 
+    padding: 2px 7px; 
     border-radius: 4px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -275,4 +279,19 @@ article img {
         transition: .7s ease;
         }
         
+/* iPad styles */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 18px;
+        color: #333;
+    }
+}
+
+/* iPhone styles */
+@media screen and (max-width: 375px) {
+    body {
+        font-size: 14px;
+        color: #666;
+    }
+}
         
