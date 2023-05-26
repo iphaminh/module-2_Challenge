@@ -25,6 +25,9 @@ It's designed with responsiveness in mind, ensuring it displays well on a variet
 
 Since this is a frontend project, you don't need to install anything. Just clone the repository and open `index.html` in your browser.
 
+## Collaborations
+Youtube, Css-tricks, Flexfrog, and ect
+
 To clone the repository, use the following command in your terminal:
 
 ```bash
